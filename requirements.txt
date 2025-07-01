@@ -14,3 +14,4 @@ PyYAML>=6.0
 requests>=2.31.0
 fpdf>=1.7.2
 langchain>=0.1.17
+langchain[chromadb]>=0.1.17
