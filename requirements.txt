@@ -10,4 +10,5 @@ scikit-learn>=1.3.0
 tqdm
 langchain[chromadb]>=0.1.0
 chromadb>=0.4.13
+protobuf<4.24
 langchain-community
